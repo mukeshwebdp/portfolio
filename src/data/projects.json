@@ -1,0 +1,88 @@
+[
+  {
+    "title": "Registration and login page with Backend",
+    "imageSrc": "projects/registration-page-with-backend.png",
+    "description": "user registration and login page with backend functionality that securely handles user data.",
+    "skills": ["HTML","CSS","Express", "Node","MongoDB"],
+    "demo": "https://github.com/mukeshwebdp/backend-Instagrams.git",
+    "source": "https://github.com/mukeshwebdp/backend-Instagrams.git"
+  },
+  {
+    "title": "CRUD Application with backend",
+    "imageSrc": "projects/crud-app.png",
+    "description": "A CRUD application is a software program that allows users to Create, Read, Update, and Delete data in a database..",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://github.com/mukeshwebdp/crud-app.git",
+    "source": "https://github.com/mukeshwebdp/crud-app.git"
+  },
+  {
+    "title": "Git API fetch data",
+    "imageSrc": "projects/gitt-app.png",
+    "description": "Git API project displays user ID, creation date, and client name from Git API on screen.",
+    "skills": ["React","axios", "Express", "Node"],
+    "demo": "https://github-app-beploy.vercel.app/",
+    "source": "https://github.com/mukeshwebdp/github-app-beploy.git"
+  },
+  {
+    "title": "Weave effect login page",
+    "imageSrc": "projects/weave-effect-login-page.png",
+    "description": "Login page featuring a captivating weave effect for enhanced visual appeal.",
+    "skills": ["HTML","CSS", "JavaScript"],
+    "demo": "https://mukeshwebdp.github.io/weave-effect-login-page/",
+    "source": "https://github.com/mukeshwebdp/weave-effect-login-page.git"
+  },
+  {
+    "title": "Random Password Generator",
+    "imageSrc": "projects/password-generator.png",
+    "description": "Generate a password with symbols, numbers, lowercase, and uppercase letters based on user choice.",
+    "skills": ["HTML","CSS", "JavaScript"],
+    "demo": "https://mukeshwebdp.github.io/random-password-generator/",
+    "source": "https://github.com/mukeshwebdp/random-password-generator.git"
+  },
+  {
+    "title": "Random Password Generator",
+    "imageSrc": "projects/random-color-Generator.png",
+    "description": "Random color generator creates and displays colors randomly.",
+    "skills": ["HTML","CSS", "JavaScript"],
+    "demo": "https://mukeshwebdp.github.io/random-color-generator/",
+    "source": "https://github.com/mukeshwebdp/random-color-generator.git"
+  },
+  {
+    "title": "Stop-watch",
+    "imageSrc": "projects/stop-watch.png",
+    "description": "Stopwatch tracks elapsed time with start, stop, and reset functions.",
+    "skills": ["HTML","CSS", "JavaScript"],
+    "demo": "https://mukeshwebdp.github.io/Stopwatch-mini-project/",
+    "source": "https://github.com/mukeshwebdp/Stopwatch-mini-project.git"
+  },
+  {
+    "title": "Progress-steps ",
+    "imageSrc": "projects/progress-staps.png",
+    "description": "Progress steps visually indicate the current stage in a multi-step process.",
+    "skills": ["HTML","CSS", "JavaScript"],
+    "demo": "https://mukeshwebdp.github.io/progress-steps-mini-project/",
+    "source": "https://github.com/mukeshwebdp/progress-steps-mini-project.git"
+  },{
+    "title": "Expending Effect",
+    "imageSrc": "projects/Expending-Effect.png",
+    "description": "Expanding effect enlarges elements for a dynamic visual experience.",
+    "skills": ["HTML","CSS", "JavaScript"],
+    "demo": "https://mukeshwebdp.github.io/progress-steps-mini-project/",
+    "source": "https://github.com/mukeshwebdp/progress-steps-mini-project.git"
+  },{
+    "title": "Blurry Loading",
+    "imageSrc": "projects/blurry-loading.png",
+    "description": "Blurry loading effect transitions images from blurry to clear as they load..",
+    "skills": ["HTML","CSS", "JavaScript"],
+    "demo": "https://mukeshwebdp.github.io/blurry-loading/",
+    "source": "https://github.com/mukeshwebdp/blurry-loading.git"
+  },
+  {
+    "title": "BMI calculator ",
+    "imageSrc": "projects/BMI-Calculator.png",
+    "description": "BMI calculator computes body mass index based on height and weight.",
+    "skills": ["HTML","CSS", "JavaScript"],
+    "demo": "https://mukeshwebdp.github.io/BMI-mini-project/",
+    "source": "https://github.com/mukeshwebdp/BMI-mini-project.git"
+  }
+]

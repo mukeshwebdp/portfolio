@@ -1,0 +1,30 @@
+[
+  {
+    "role": "B.C.A",
+    "organisation": "Technical Education and Research Institute",
+    "startDate": "Nov, 2020",
+    "endDate": "Sep, 2023",
+    "experiences": [
+      "71%"
+    ]
+    
+  },
+  {
+    "role": "Intermediate ",
+    "organisation": "UP Board",
+    "startDate": "June, 2019",
+    "endDate": "Mar, 2020",
+    "experiences": [
+      "55%"
+    ]
+  },
+  {
+    "role": "High School",
+    "organisation": "UP Board",
+    "startDate": "June, 2017",
+    "endDate": "Apr, 2018",
+    "experiences": [
+      "75%"
+    ]
+  }
+]
