@@ -59,6 +59,10 @@
   }
 
   .links {
-    align-items: center;
+    align-items: start;
+    gap: 10px;
+  }
+  .link a{
+    font-size: 18px;
   }
 }
