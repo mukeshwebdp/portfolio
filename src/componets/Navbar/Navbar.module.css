@@ -96,5 +96,6 @@
   .menuOpen {
     display: flex;
     z-index: 1;
+    backdrop-filter: blur(25px);
   }
 }
