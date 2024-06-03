@@ -8,8 +8,8 @@
   flex-direction: row;
   justify-content: space-evenly;
   width: 100vw;
-  padding: 58px 10%;
-  gap: 10px;
+  padding: 30px 5%;
+  gap: 8px;
 }
 
 .text h2 {
